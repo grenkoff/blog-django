@@ -16,3 +16,4 @@ celerybeat-schedule
 .venv/
 .vscode/
 .pylintrc
+.env
