@@ -11,9 +11,11 @@ logs/
 *.pid
 *.toc
 *.out
+*.sqlite3
 celerybeat-schedule                                                                     
 .ipynb_checkpoints
 .venv/
 .vscode/
 .pylintrc
+.prettierrc
 .env
